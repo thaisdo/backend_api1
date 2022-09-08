@@ -7,3 +7,4 @@ app.listen(porta, function(){
     // console.log('api tá on na',{porta});
     console.log(`api tá on na ${porta}!`);
 });
+//teste
